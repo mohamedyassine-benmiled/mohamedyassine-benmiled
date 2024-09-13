@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences **I focus on .Net C# in my usual projects and work with Scala in my work environment, I mainly use MongoDB for my projects and am passionate about making random projects to improve my skills in other programming industries.**
 
-- 🌟 Experiences **I personnaly worked on projects related to Web Development, Mobile Development, Desktop App Development, Docker Containers, Linux Server Management, Game Server Hosting and Game Development.
+- 🌟 Experiences **I personnaly worked on projects related to Web Development, Mobile Development, Desktop App Development, Docker Containers, Linux Server Management, Game Server Hosting and Game Development.**
 
 - ⚡ Fun fact **Programming dashboards is like building puzzles and solving mysteries 🕵️‍♂️**
 
