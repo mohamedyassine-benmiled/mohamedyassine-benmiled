@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yassine Ben Miled</h1>
 <h3 align="center">As an ambitious and driven Engineering student at Esprit, I have a passion for using technology to solve complex problems and create innovative solutions.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedyassine-benmiled" alt="mohamedyassine-benmiled" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedyassine-benmiled&theme=onedark" alt="mohamedyassine-benmiled" /></a> </p>
 
 - 🔭 I’m currently working on **new solutions and school projects.**
 
