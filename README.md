@@ -11,7 +11,9 @@
 
 - 📫 How to reach me **yassinebenmiled@hydranest.com**
 
-- 📄 Know about my experiences [With a focus on C# and Scala web development, I have a strong foundation in back-office APIs and mobile application APIs. One of my recent projects involved working on queries for an SMS gateway database with Chifco, using ASP.NET MVC. This experience has honed my skills in database management and querying, as well as my ability to collaborate with clients to deliver effective solutions.](With a focus on C# and Scala web development, I have a strong foundation in back-office APIs and mobile application APIs. One of my recent projects involved working on queries for an SMS gateway database with Chifco, using ASP.NET MVC. This experience has honed my skills in database management and querying, as well as my ability to collaborate with clients to deliver effective solutions.)
+- 📄 Know about my experiences **I focus on .Net C# in my usual projects and work with Scala in my work environment, I mainly use MongoDB for my projects and am passionate about making random projects to improve my skills in other programming industries.**
+
+- 🌟 Experiences **I personnaly worked on projects related to Web Development, Mobile Development, Desktop App Development, Docker Containers, Linux Server Management, Game Server Hosting and Game Development.
 
 - ⚡ Fun fact **Programming dashboards is like building puzzles and solving mysteries 🕵️‍♂️**
 
