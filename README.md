@@ -15,7 +15,7 @@
 
 - 🌟 Experiences **I personnaly worked on projects related to Web Development, Mobile Development, Desktop App Development, Docker Containers, Linux Server Management, Game Server Hosting and Game Development.**
 
-- ⚡ Fun fact **Programming dashboards is like building puzzles and solving mysteries 🕵️‍♂️**
+- ⚡ Fun fact **Programming dashboards is like building puzzles and solving mysteries 🕵️‍♂️, one of my favorite things to do.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
