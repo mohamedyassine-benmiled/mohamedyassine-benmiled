@@ -23,16 +23,16 @@ Engineering student at ESPRIT with a strong focus on building reliable software 
 
 | Project | What I Built | Stack |
 |---|---|---|
-| [AIMServices Hub](https://aimservers.tn) | Independent entity delivering services for streamers and gaming communities | ASP.NET Core, Blazor, Docker, Linux |
-| [StreamyApp](https://github.com/mohamedyassine-benmiled/StreamyApp) | Streaming-focused platform with interactive modules and production deployment workflows | Blazor Server, C#, MongoDB, CI/CD |
-| [AIMWeb](https://github.com/mohamedyassine-benmiled/AIMWeb) | Web platform with auth integrations and game service connectivity | ASP.NET, Steam Auth, Discord Auth, MongoDB |
-| [AimRaceWorld](https://github.com/mohamedyassine-benmiled/AimRaceWorld) | Need for Speed World server engine and supporting backend systems | .NET, API Services, XMPP, UDP Sync |
-| [AIMLauncher](https://github.com/mohamedyassine-benmiled/AIMLauncher) | Desktop launcher ecosystem for authenticated distribution and updates | Avalonia, .NET, Steam Integration |
+| AIMServices Hub | Independent entity delivering services for streamers and gaming communities | ASP.NET Core, Blazor, Docker, Linux |
+| StreamyApp | Streaming-focused platform with interactive modules and production deployment workflows | Blazor Server, C#, MongoDB, CI/CD |
+| AIMWeb | Web platform with auth integrations and game service connectivity | ASP.NET, Steam Auth, Discord Auth, MongoDB |
+| AimRaceWorld | Need for Speed World server engine and supporting backend systems | .NET, API Services, XMPP, UDP Sync |
+| AIMLauncher | Desktop launcher ecosystem for authenticated distribution and updates | Avalonia, .NET, Steam Integration |
 
 ## Experience Highlights
 
 - Founded AIMServices Hub as an independent platform initiative
-- Delivered platform improvements across StreamyApp, AIMWeb, AimRaceWorld, and AIMLauncher
+- Founded and scaled a successful Rust server project in 2021
 - Worked across web, desktop, infrastructure, and deployment automation
 
 ## Tech Stack
