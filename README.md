@@ -58,8 +58,6 @@ Engineering student at ESPRIT with a strong focus on building reliable software 
 
 ## GitHub Stats
 
-<p align="center">
-	<img height="165" src="https://github-readme-stats.vercel.app/api?username=mohamedyassine-benmiled&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-	<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedyassine-benmiled&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mohamedyassine-benmiled?cardType=level&theme=midnight-purple&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 </p>
 
